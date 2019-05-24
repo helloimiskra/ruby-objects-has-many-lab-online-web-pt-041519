@@ -20,5 +20,5 @@ class Author
     @posts << title
     title.author = self 
   end
-  
+
 end
