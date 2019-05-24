@@ -4,7 +4,6 @@ class Author
   def initialize(name = " ")
     @name = name
     @posts = []
-    @author = author
   end
 
   def posts
