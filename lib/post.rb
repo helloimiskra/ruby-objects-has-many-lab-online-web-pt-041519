@@ -14,7 +14,7 @@ class Post
   def author_name
     #author ? author.name : nil
 
-    if author.name.nil? == true
+    if author.nil? == true
       nil
     else
       author.name
