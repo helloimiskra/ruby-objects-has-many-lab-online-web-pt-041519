@@ -16,6 +16,7 @@ class Post
 
     if author.name.nil? == true
       nil
+    end
   end
 
 end
